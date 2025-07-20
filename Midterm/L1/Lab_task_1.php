@@ -40,7 +40,7 @@
             <tr>
                <td>Country:</td> 
                 <td><select>
-                    <option value="Select country">select country</option>
+                    <option value="Select country">--Select--</option>
                     <option value="Bangladesh">Bangladesh</option>
                     <option value="India">India</option>
                     <option value="Pakistan">Pakistan</option>
